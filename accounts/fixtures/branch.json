@@ -1,0 +1,13 @@
+[
+    {
+        "model": "accounts.branch",
+        "pk": 1,
+        "fields": {
+            "number": "0000000001",
+            "name": "SUCURSAL ITH",
+            "address": "AV TECNOLOGICO 115, SAHUARO",
+            "place": "HERMOSILLO",
+            "zip_code": "83170"
+        }
+    }
+]

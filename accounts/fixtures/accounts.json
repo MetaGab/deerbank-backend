@@ -1,0 +1,206 @@
+[
+    {
+        "model": "accounts.account",
+        "pk": 1,
+        "fields": {
+            "number": "1000010001",
+            "cutoff_date": "2021-12-15",
+            "money": 999999.99,
+            "status": "Activa",
+            "client_id": 1,
+            "branch_id": 1
+        }
+    },
+    {
+        "model": "accounts.account",
+        "pk": 2,
+        "fields": {
+            "number": "1000010002",
+            "cutoff_date": "2021-12-15",
+            "money": 999999.99,
+            "status": "Activa",
+            "client_id": 2,
+            "branch_id": 1
+        }
+    },
+    {
+        "model": "accounts.account",
+        "pk": 3,
+        "fields": {
+            "number": "1000010003",
+            "cutoff_date": "2021-12-15",
+            "money": 999999.99,
+            "status": "Activa",
+            "client_id": 3,
+            "branch_id": 1
+        }
+    },
+    {
+        "model": "accounts.account",
+        "pk": 4,
+        "fields": {
+            "number": "1000010004",
+            "cutoff_date": "2021-12-15",
+            "money": 999999.99,
+            "status": "Activa",
+            "client_id": 4,
+            "branch_id": 1
+        }
+    },
+    {
+        "model": "accounts.account",
+        "pk": 5,
+        "fields": {
+            "number": "1000010005",
+            "cutoff_date": "2021-12-15",
+            "money": 999999.99,
+            "status": "Activa",
+            "client_id": 5,
+            "branch_id": 1
+        }
+    },
+    {
+        "model": "accounts.account",
+        "pk": 6,
+        "fields": {
+            "number": "1000010006",
+            "cutoff_date": "2021-12-15",
+            "money": 999999.99,
+            "status": "Activa",
+            "client_id": 6,
+            "branch_id": 1
+        }
+    },
+    {
+        "model": "accounts.account",
+        "pk": 7,
+        "fields": {
+            "number": "1000010007",
+            "cutoff_date": "2021-12-15",
+            "money": 999999.99,
+            "status": "Activa",
+            "client_id": 7,
+            "branch_id": 1
+        }
+    },
+    {
+        "model": "accounts.account",
+        "pk": 8,
+        "fields": {
+            "number": "2000010008",
+            "cutoff_date": "2021-12-15",
+            "money": 999999.99,
+            "status": "Activa",
+            "client_id": 8,
+            "branch_id": 1
+        }
+    },
+    {
+        "model": "accounts.account",
+        "pk": 9,
+        "fields": {
+            "number": "2000010009",
+            "cutoff_date": "2021-12-15",
+            "money": 999999.99,
+            "status": "Activa",
+            "client_id": 9,
+            "branch_id": 1
+        }
+    },
+    {
+        "model": "accounts.account",
+        "pk": 10,
+        "fields": {
+            "number": "3000010007",
+            "cutoff_date": "2021-12-15",
+            "money": 999999.99,
+            "status": "Activa",
+            "client_id": 10,
+            "branch_id": 1
+        }
+    },
+    {
+        "model": "accounts.account",
+        "pk": 11,
+        "fields": {
+            "number": "4000010007",
+            "cutoff_date": "2021-12-15",
+            "money": 999999.99,
+            "status": "Activa",
+            "client_id": 11,
+            "branch_id": 1
+        }
+    },
+    {
+        "model": "accounts.account",
+        "pk": 12,
+        "fields": {
+            "number": "3000020007",
+            "cutoff_date": "2021-12-15",
+            "money": 999999.99,
+            "status": "Activa",
+            "client_id": 12,
+            "branch_id": 1
+        }
+    },
+    {
+        "model": "accounts.account",
+        "pk": 13,
+        "fields": {
+            "number": "3420020007",
+            "cutoff_date": "2021-12-15",
+            "money": 999999.99,
+            "status": "Activa",
+            "client_id": 16,
+            "branch_id": 1
+        }
+    },
+    {
+        "model": "accounts.account",
+        "pk": 14,
+        "fields": {
+            "number": "3430020007",
+            "cutoff_date": "2021-12-15",
+            "money": 999999.99,
+            "status": "Activa",
+            "client_id": 17,
+            "branch_id": 1
+        }
+    },
+    {
+        "model": "accounts.account",
+        "pk": 15,
+        "fields": {
+            "number": "3440020007",
+            "cutoff_date": "2021-12-15",
+            "money": 999999.99,
+            "status": "Activa",
+            "client_id": 18,
+            "branch_id": 1
+        }
+    },
+    {
+        "model": "accounts.account",
+        "pk": 16,
+        "fields": {
+            "number": "5550020017",
+            "cutoff_date": "2021-12-15",
+            "money": 999999.99,
+            "status": "Activa",
+            "client_id": 19,
+            "branch_id": 1
+        }
+    },
+    {
+        "model": "accounts.account",
+        "pk": 17,
+        "fields": {
+            "number": "51978020017",
+            "cutoff_date": "2021-12-15",
+            "money": 999999.99,
+            "status": "Activa",
+            "client_id": 20,
+            "branch_id": 1
+        }
+    }
+]

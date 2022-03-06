@@ -1,0 +1,287 @@
+[
+    {
+        "model": "accounts.client",
+        "pk": 1,
+        "fields": {
+            "number": "0000000001",
+            "name": "TIENDA DE REGALOS DEERLAND",
+            "email": "tienda@deerland.com",
+            "rfc": "ROPA990101DQ3",
+            "address": "AV TECNOLOGICO 115, SAHUARO",
+            "place": "HERMOSILLO",
+            "zip_code": "83170",
+            "client_type": "Persona Moral",
+            "password": "pbkdf2_sha256$260000$v1MOjmpcjmDnrfgceT9Tld$b1a4qA61/XV9QOzYcNhYZy5fPbhyH7elmezIF/yJZ/o="
+        }
+    },
+    {
+        "model": "accounts.client",
+        "pk": 2,
+        "fields": {
+            "number": "0000000002",
+            "name": "TAQUILLA DEERLAND",
+            "email": "taquilla@deerland.com",
+            "rfc": "ROPA990101DQ3",
+            "address": "AV TECNOLOGICO 115, SAHUARO",
+            "place": "HERMOSILLO",
+            "zip_code": "83170",
+            "client_type": "Persona Moral",
+            "password": "pbkdf2_sha256$260000$4v2fbjemNkpjfKPYcp9jE1$fRgtpJ5bE/ZHOfVmde7GJKeF5AW+3eq2Vl/pyq09rPY="
+        }
+    },
+    {
+        "model": "accounts.client",
+        "pk": 3,
+        "fields": {
+            "number": "0000000003",
+            "name": "HOTEL DEERLAND",
+            "email": "hotel@deerland.com",
+            "rfc": "ROPA990101DQ3",
+            "address": "AV TECNOLOGICO 115, SAHUARO",
+            "place": "HERMOSILLO",
+            "zip_code": "83170",
+            "client_type": "Persona Moral",
+            "password": "pbkdf2_sha256$260000$UTLpgNzVbyPvHPasblnd6F$0WdFiKQ+NH5K9bRv7KRJ7Z91yvJIXYsRu82KBhFS1Rs="
+        }
+    },
+    {
+        "model": "accounts.client",
+        "pk": 4,
+        "fields": {
+            "number": "0000000004",
+            "name": "RESTAURANTE DEERLAND",
+            "email": "restaurante@deerland.com",
+            "rfc": "ROPA990101DQ3",
+            "address": "AV TECNOLOGICO 115, SAHUARO",
+            "place": "HERMOSILLO",
+            "zip_code": "83170",
+            "client_type": "Persona Moral",
+            "password": "pbkdf2_sha256$260000$u9B8sd0gaHVCCfb1o7kRz3$8RKyvH/ZU7js2PeXPLtQSHKaluNZge/SwqbHE5KyXxU="
+        }
+    },
+    {
+        "model": "accounts.client",
+        "pk": 5,
+        "fields": {
+            "number": "0000000005",
+            "name": "CENTRAL DEERLAND",
+            "email": "central@deerland.com",
+            "rfc": "ROPA990101DQ3",
+            "address": "AV TECNOLOGICO 115, SAHUARO",
+            "place": "HERMOSILLO",
+            "zip_code": "83170",
+            "client_type": "Persona Moral",
+            "password": "pbkdf2_sha256$260000$wOHdtuuDbQFmHGUFoqFGUm$XPIFq9cDi6XRbwp2/vAeogq+9UujpS6XiblRKxO3wTQ="
+        }
+    },
+    {
+        "model": "accounts.client",
+        "pk": 6,
+        "fields": {
+            "number": "0000000006",
+            "name": "EMPLEADOS DEERLAND",
+            "email": "empleados@deerland.com",
+            "rfc": "ROPA990101DQ3",
+            "address": "AV TECNOLOGICO 115, SAHUARO",
+            "place": "HERMOSILLO",
+            "zip_code": "83170",
+            "client_type": "Persona Moral",
+            "password": "pbkdf2_sha256$260000$ksVIG03HZwe9Jh1t1Gi55T$2TXoTcLGrBrQwYA2bvautG784oYeQpCbJWk325vV38w="
+        }
+    },
+    {
+        "model": "accounts.client",
+        "pk": 7,
+        "fields": {
+            "number": "0000000007",
+            "name": "FINANZAS DEERLAND",
+            "email": "finanzas@deerland.com",
+            "rfc": "ROPA990101DQ3",
+            "address": "AV TECNOLOGICO 115, SAHUARO",
+            "place": "HERMOSILLO",
+            "zip_code": "83170",
+            "client_type": "Persona Moral",
+            "password": "pbkdf2_sha256$260000$X41goIW5vaqzg5GvGFIVEq$4GIi9rq6EK0SIT4ojtIefoyhNlscDxSkysvhXWitgrY="
+        }
+    },
+    {
+        "model": "accounts.client",
+        "pk": 8,
+        "fields": {
+            "number": "0000000008",
+            "name": "AYALA PUENTE EDUARDO",
+            "email": "edu.ayala@correo.com",
+            "rfc": "AYPE990101XXX",
+            "address": "AV TECNOLOGICO 115, SAHUARO",
+            "place": "HERMOSILLO",
+            "zip_code": "83170",
+            "client_type": "Persona Física",
+            "password": "pbkdf2_sha256$260000$vPnOnco8xBpoi9QYf5bofg$qx0awqOWEXoLuakbEc8U/B5BomiMHvWtlVuwZpghXM0="
+        }
+    },
+    {
+        "model": "accounts.client",
+        "pk": 9,
+        "fields": {
+            "number": "0000000009",
+            "name": "VILLANUEVA PRADOS ALAN",
+            "email": "alan.villa@correo.com",
+            "rfc": "VIPA990101XXX",
+            "address": "AV TECNOLOGICO 115, SAHUARO",
+            "place": "HERMOSILLO",
+            "zip_code": "83170",
+            "client_type": "Persona Física",
+            "password": "pbkdf2_sha256$260000$UlAp1uVeQ2mEtImeQsjM5M$o3d+Vclf8bvC38jH5e5L7jWRLYVNOTG3vzfrsX+ah3c="
+        }
+    },
+    {
+        "model": "accounts.client",
+        "pk": 10,
+        "fields": {
+            "number": "0000000010",
+            "name": "AGUILAR LARA MIGUEL",
+            "email": "miguel.aguilar@correo.com",
+            "rfc": "AGLM990101XXX",
+            "address": "AV TECNOLOGICO 115, SAHUARO",
+            "place": "HERMOSILLO",
+            "zip_code": "83170",
+            "client_type": "Persona Física",
+            "password": "pbkdf2_sha256$260000$ow7XIBwG5XdLx5TSNotvpf$w4IltUcl0lQHzBqq9bw2WTTNNF3iegNogPdTqDqEHQw="
+        }
+    },
+    {
+        "model": "accounts.client",
+        "pk": 11,
+        "fields": {
+            "number": "0000000011",
+            "name": "BALLESTEROS VALLE LUIS",
+            "email": "luis.balle@correo.com",
+            "rfc": "BAVL990101XXX",
+            "address": "AV TECNOLOGICO 115, SAHUARO",
+            "place": "HERMOSILLO",
+            "zip_code": "83170",
+            "client_type": "Persona Física",
+            "password": "pbkdf2_sha256$260000$PnqMS7qj6gMVGVNykw3n2k$VUGHbkpOaueVze8QNUyOD7AmlypLGB026SPMg4LnUmU="
+        }
+    },
+    {
+        "model": "accounts.client",
+        "pk": 12,
+        "fields": {
+            "number": "0000000012",
+            "name": "HERNÁNDEZ MACHADO ROGELIO",
+            "email": "roger.hernandez@correo.com",
+            "rfc": "HEMR990101XXX",
+            "address": "AV TECNOLOGICO 115, SAHUARO",
+            "place": "HERMOSILLO",
+            "zip_code": "83170",
+            "client_type": "Persona Física",
+            "password": "pbkdf2_sha256$260000$BL2FJs7oyWHmyrrYWcfarD$2XGcV08QnA4xeze0mnGidzZAy2SBvOpSUUpL1SxOnXY="
+        }
+    },
+    {
+        "model": "accounts.client",
+        "pk": 13,
+        "fields": {
+            "name": "BANDA PÉREZ GABRIEL MANUEL",
+            "email": "gabombanda@gmail.com",
+            "client_type": "Ejecutivo",
+            "password": "pbkdf2_sha256$260000$afrlxcXEuAGH2Iu0pPGlJ9$VZaPYYVxJ6R8OsbPVyp26zvPxQT+q1sEufZpZBuabPQ="
+        }
+    },
+    {
+        "model": "accounts.client",
+        "pk": 14,
+        "fields": {
+            "name": "CABALLERO CURIEL KEVIN ANTONIO",
+            "email": "kevin.caballerocuriel@gmail.com",
+            "client_type": "Cajero",
+            "password": "pbkdf2_sha256$260000$LYJFQjMaNWqgrpcyYngpN0$uVFYO8qsNUZ0X5cdUQyCoFEDJQTbg2gFxSCuY7twH5A="
+        }
+    },
+    {
+        "model": "accounts.client",
+        "pk": 15,
+        "fields": {
+            "name": "SAMANIEGO CUEVAS ARLENE",
+            "email": "arlenesgo15@gmail.com",
+            "client_type": "Cajero",
+            "password": "pbkdf2_sha256$260000$2RUTIxqyVjIoCpZaWTombF$228QVwy3PgOGOUlPokJVBdJxZBDdg3Mki9hUwWGEYCQ="
+        }
+    },
+    {
+        "model": "accounts.client",
+        "pk": 16,
+        "fields": {
+            "number": "0000000013",
+            "name": "PROVEEDOR EXTERNO UNO",
+            "email": "proveedor1@externo.com",
+            "rfc": "PREU990101DQ3",
+            "address": "AV TECNOLOGICO 115, SAHUARO",
+            "place": "HERMOSILLO",
+            "zip_code": "83170",
+            "client_type": "Persona Moral",
+            "password": "pbkdf2_sha256$260000$c2eKBGsuPKAoYgNuK5zH6Q$JcKeRoV6+l5MvCqXqJdsqmSN9XCB0suDhOGCAhVXVVs="
+        }
+    },
+    {
+        "model": "accounts.client",
+        "pk": 17,
+        "fields": {
+            "number": "0000000014",
+            "name": "PROVEEDOR EXTERNO DOS",
+            "email": "proveedor2@externo.com",
+            "rfc": "PREU980101DQ3",
+            "address": "AV TECNOLOGICO 115, SAHUARO",
+            "place": "HERMOSILLO",
+            "zip_code": "83170",
+            "client_type": "Persona Moral",
+            "password": "pbkdf2_sha256$260000$ASu7QYb3buzX6RYs01159C$rR7iIKuxcoi5Q1HRFkdAQvQTxe7IMnMsiMIK5bi5Ff4="
+        }
+    },
+    {
+        "model": "accounts.client",
+        "pk": 18,
+        "fields": {
+            "number": "0000000015",
+            "name": "PROVEEDOR EXTERNO TRES",
+            "email": "proveedor3@externo.com",
+            "rfc": "PREU970101DQ3",
+            "address": "AV TECNOLOGICO 115, SAHUARO",
+            "place": "HERMOSILLO",
+            "zip_code": "83170",
+            "client_type": "Persona Moral",
+            "password": "pbkdf2_sha256$260000$TAtGWAx3mByIPSiLst0ulP$cdSqgM+cuuG+AvCjf0W8shHwWXNU0RTmSwMUSeQKZ8w="
+        }
+    },
+    {
+        "model": "accounts.client",
+        "pk": 19,
+        "fields": {
+            "number": "0000000016",
+            "name": "VETERINARIA",
+            "email": "veterinaria@correos.com",
+            "rfc": "VETA990101FE9",
+            "address": "AV TECNOLOGICO 115, SAHUARO",
+            "place": "HERMOSILLO",
+            "zip_code": "83170",
+            "client_type": "Persona Moral",
+            "password": "pbkdf2_sha256$260000$acpczdXuXaQ2Qd25Mxexhd$sT2x2Eo7rOmynpnwBFNPQhCuKPinK63vhTmI65a5ynA="
+        }
+    },
+	{
+        "model": "accounts.client",
+        "pk": 20,
+        "fields": {
+            "number": "0000000017",
+            "name": "ESTÉTICA",
+            "email": "estetica@correos.com",
+            "rfc": "ESTE990101PO1",
+            "address": "AV TECNOLOGICO 115, SAHUARO",
+            "place": "HERMOSILLO",
+            "zip_code": "83170",
+            "client_type": "Persona Moral",
+            "password": "pbkdf2_sha256$260000$vHmtvYiepXxevKprvoC0ZL$I3oDyWVBidN6wJRuGSQRAjBoc2KYucostNcsxun1Scw="
+        }
+    }
+]
